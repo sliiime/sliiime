@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @sliiime
-- 🌱 I’m currently learning everything that has to do with math and programming.
-- 💞️ I’m looking to collaborate on pretty much anything. I'm open to all offers.
+
 
 
 <!---
