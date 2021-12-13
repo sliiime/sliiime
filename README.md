@@ -1,5 +1,5 @@
 
-Student in the National Athens and Kapodistrian University of Athens at the department of Informatics & Telecommunications.
+Student at the National Athens and Kapodistrian University of Athens at the department of Informatics & Telecommunications.
 
 <!---
 sliiime/sliiime is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
