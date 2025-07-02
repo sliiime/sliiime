@@ -1,5 +1,5 @@
-
-Student at the National and Kapodistrian University of Athens at the department of Informatics & Telecommunications.
+> touch grass
+> Operation not permitted
 
 <!---
 sliiime/sliiime is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
