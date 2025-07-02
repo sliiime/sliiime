@@ -1,5 +1,5 @@
-> touch grass
-> Operation not permitted
+\> touch grass
+\> Operation not permitted
 
 <!---
 sliiime/sliiime is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
